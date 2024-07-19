@@ -1,0 +1,10 @@
+.add-steps{
+	display: flex;
+	gap: 20px;
+	align-items: flex-end;
+}
+.add-steps__container{
+	display: flex;
+	flex-direction: column;
+	gap: 10px;
+}
